@@ -20,6 +20,6 @@ Las bombas peristálticas serán capaces de distribuir líquido dentro de un ran
 
 Proceso de Peristálsis:
 
-<p align="center">
-  https://i.makeagif.com/media/1-27-2016/YvQtiC.gif
+<p align="center" width="100%">
+    <img width="33%" src="[https://i.stack.imgur.com/RJj4x.png](https://i.makeagif.com/media/1-27-2016/YvQtiC.gif)">
 </p>
