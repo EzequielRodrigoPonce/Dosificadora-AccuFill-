@@ -17,4 +17,4 @@ Primero se dosifica la cantidad de líquido A según lo especificado por el usua
 Las bombas peristálticas serán capaces de distribuir líquido dentro de un rango de caudal de 100 a 1500 mL/min.  
 Image:
 
-![]([https://pandao.github.io/editor.md/examples/images/4.jpg](https://i.makeagif.com/media/1-27-2016/YvQtiC.gif))
+![](https://i.makeagif.com/media/1-27-2016/YvQtiC.gif)
