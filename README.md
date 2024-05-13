@@ -15,3 +15,6 @@ Una vez especificadas las proporciones a dosificador, se deberá transportar un 
 Los dos recipientes que contienen los líquidos A y B estarán encima de balanzas de precisión. Estas ayudaran a mejorar la precisión con la que se distribuyen los líquidos.
 Primero se dosifica la cantidad de líquido A según lo especificado por el usuario y luego el sistema, mediante la balanza, calcula la cantidad de líquido A que se distribuyó y con esos valores determina la cantidad de líquido B que se proporcionará a continuación.  
 Las bombas peristálticas serán capaces de distribuir líquido dentro de un rango de caudal de 100 a 1500 mL/min.  
+Image:
+
+![]([https://pandao.github.io/editor.md/examples/images/4.jpg](https://i.makeagif.com/media/1-27-2016/YvQtiC.gif))
