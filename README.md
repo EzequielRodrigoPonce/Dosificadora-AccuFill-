@@ -43,3 +43,6 @@ El cierre total de la manguera al ser comprimida entre el rodillo y la pista (oc
 <p align="center" width="100%">
     <img width="33%" src="https://i.makeagif.com/media/1-27-2016/YvQtiC.gif">
 </p>
+
+
+[![Dosificadora Multi Canal](http://i3.ytimg.com/vi/ZArngSEx4A0/hqdefault.jpg)](https://www.youtube.com/watch?v=ZArngSEx4A0 "Dosificadora Multi Canal")
