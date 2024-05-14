@@ -20,7 +20,7 @@ Las bombas peristálticas serán capaces de distribuir líquido dentro de un ran
 
 ## Proceso de Peristálsis:
 Las bombas peristálticas funcionan cuando los rodillos comprimen la manguera al girar, creando un vacío que succiona fluido a través de esta. En este tipo de bomba, solo la manguera de elastómero flexible entra en contacto con el fluido, eliminando el riesgo de que la bomba contamine el fluido o a la inversa.
-En la Imagen 1 se puede observar el fluido entrando en la manguera de la bomba, atrapado por el rodillo del cabezal de bombeo, y expulsado cuando el próximo rodillo pasa sobre la manguera. Al girar los rodillos, se forma un vacío en la manguera, succionando más fluido, para el próximo paso del rodillo.
+En la Imagen se puede observar el fluido entrando en la manguera de la bomba, atrapado por el rodillo del cabezal de bombeo, y expulsado cuando el próximo rodillo pasa sobre la manguera. Al girar los rodillos, se forma un vacío en la manguera, succionando más fluido, para el próximo paso del rodillo.
 El cierre total de la manguera al ser comprimida entre el rodillo y la pista (oclusión) proporciona a la bomba una acción de desplazamiento positivo, evitando el reflujo y eliminando la necesidad de válvulas reguladoras cuando la bomba no está en funcionamiento.
 
 
