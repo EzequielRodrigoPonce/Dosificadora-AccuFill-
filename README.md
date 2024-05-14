@@ -1,4 +1,13 @@
-# **Dosificadora Peristáltica**
+<p align="center" width="100%">
+    <img width="15%" src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Readme.md/321138189_722314939154857_3310166726490044259_n.jpg" align="left">
+    <img width="15%" src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Readme.md/378230559_797453282383428_4968693939392363229_n.jpg" align="right">
+</p>
+<br><br><br>
+
+                
+<h1 align="center">Dosificadora Peristáltica</h1>
+<br>
+<br>
 
 Este proyecto se propone brindar una alternativa más barata, personalizable e intuitiva a la dosificación de líquidos para la industria alimenticia. En el mercado, este tipo de máquinas se pueden obtener una gran variedad de precios, caudales y precisión, pero su valor es muy alto en contraste con los componentes que forman el equipo, que pueden ser adquiridos por un precio relativamente bajo. Este proyecto además tiene como objetivo facilitar el uso mediante una interfaz de usuario amigable que se controle desde un Smartphone o una computadora, generalmente las dosificadoras con este tipo de funciones son de las más costosas de su tipo.
 
