@@ -44,5 +44,28 @@ El cierre total de la manguera al ser comprimida entre el rodillo y la pista (oc
     <img width="33%" src="https://i.makeagif.com/media/1-27-2016/YvQtiC.gif">
 </p>
 
+<br>
+<br>
+<br>
+<table align="center" style="margin-left: auto; margin-right: auto;">
+<tr>
+<td><img src="https://i.makeagif.com/media/1-27-2016/YvQtiC.gif" width="300"></td>
+<td><img src="https://i.makeagif.com/media/1-27-2016/YvQtiC.gif" width="300"></td>
+<td><img src="https://i.makeagif.com/media/1-27-2016/YvQtiC.gif" width="300"> <br>Description 3 </td>
+</tr>
+<tr>
+<td><img src="https://i.makeagif.com/media/1-27-2016/YvQtiC.gif" width="300"></td>
+<td><img src="https://i.makeagif.com/media/1-27-2016/YvQtiC.gif" width="300"></td>
+<td><img src="https://i.makeagif.com/media/1-27-2016/YvQtiC.gif" width="300"></td>
+</tr>
+<tr>
+<td><img src="https://i.makeagif.com/media/1-27-2016/YvQtiC.gif" width="300"></td>
+<td><img src="https://i.makeagif.com/media/1-27-2016/YvQtiC.gif" width="300"></td>
+<td><img src="https://i.makeagif.com/media/1-27-2016/YvQtiC.gif" width="300"></td>
+</tr>
+</table>
+<br>
+<br>
+<br>
 
 [![Dosificadora Multi Canal](http://i3.ytimg.com/vi/ZArngSEx4A0/hqdefault.jpg)](https://www.youtube.com/watch?v=ZArngSEx4A0 "Dosificadora Multi Canal")
