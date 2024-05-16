@@ -49,19 +49,19 @@ El cierre total de la manguera al ser comprimida entre el rodillo y la pista (oc
 <br>
 <table align="center" style="margin-left: auto; margin-right: auto;">
 <tr>
-<td><img src="https://i.makeagif.com/media/1-27-2016/YvQtiC.gif" width="300"></td>
-<td><img src="https://i.makeagif.com/media/1-27-2016/YvQtiC.gif" width="300"></td>
-<td><img src="https://i.makeagif.com/media/1-27-2016/YvQtiC.gif" width="300"> <br>Description 3 </td>
+<td><img src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Imagenes/Ensamblando%20bomba.jpg" width="300"> <br>Ensamblaje de Bomba </td>
+<td><img src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Imagenes/Probando%20bomba%20con%20el%20primer%20motor%20CC.jpg" width="300"> <br>Testeo </td>
+<td><img src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Imagenes/Revisi%C3%B3n%20de%20pines.jpg" width="300"> <br>Cableado de Circuito </td>
 </tr>
 <tr>
-<td><img src="https://i.makeagif.com/media/1-27-2016/YvQtiC.gif" width="300"></td>
-<td><img src="https://i.makeagif.com/media/1-27-2016/YvQtiC.gif" width="300"></td>
-<td><img src="https://i.makeagif.com/media/1-27-2016/YvQtiC.gif" width="300"></td>
+<td><img src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Imagenes/Imagen%20de%20WhatsApp%202023-12-01%20a%20las%2023.33.35_a418374a.jpg" width="300"> <br>Calibración </td>
+<td><img src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Imagenes/Preparativos%20para%20la%20estructura.jpg" width="300"> <br>Lijado de Dosificadora </td>
+<td><img src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Imagenes/Pintando%20la%20estructura%20del%20prototipo.jpg" width="300"> <br>Pintado de Dosificadora </td>
 </tr>
 <tr>
-<td><img src="https://i.makeagif.com/media/1-27-2016/YvQtiC.gif" width="300"></td>
-<td><img src="https://i.makeagif.com/media/1-27-2016/YvQtiC.gif" width="300"></td>
-<td><img src="https://i.makeagif.com/media/1-27-2016/YvQtiC.gif" width="300"></td>
+<td><img src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Imagenes/distribuci%C3%B3n%20y%20montaje%20de%20cables%20en%20la%20base.jpg" width="300"> <br>Armado Final </td>
+<td><img src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Imagenes/colocaci%C3%B3n%20de%20luces%20en%20cabina%20de%20dosificaci%C3%B3n%20y%20bombas.jpg" width="300"> <br>Vista Frontal  </td>
+<td><img src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Imagenes/Probando%20comunicaci%C3%B3n%20serial%20entre%20pagina%20y%20motores.jpg" width="300"> <br>¡Dosificadora Completada! </td>
 </tr>
 </table>
 <br>
