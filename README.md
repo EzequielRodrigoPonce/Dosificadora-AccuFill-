@@ -47,6 +47,28 @@ El cierre total de la manguera al ser comprimida entre el rodillo y la pista (oc
 <br>
 <br>
 <br>
+<p align="center" width="100%">
+    <img width="93%" src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Readme.md/GIF%20Parte%201.gif">
+</p>
+<br>
+<br>
+<br>
+
+<p align="center" width="100%">
+    <img width="93%" src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Readme.md/GIF%20Parte%202.gif">
+</p>
+
+<br>
+<br>
+<br>
+<p align="center" width="100%">
+    <img width="93%" src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Readme.md/GIF%20Parte%203.gif">
+</p>
+<br>
+<br>
+<br>
+
+
 <table align="center" style="margin-left: auto; margin-right: auto;">
 <tr>
 <td><img src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Imagenes/Ensamblando%20bomba.jpg" width="300"> <br>Ensamblaje de Bomba </td>
