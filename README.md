@@ -62,7 +62,7 @@ El cierre total de la manguera al ser comprimida entre el rodillo y la pista (oc
 <br>
 <br>
 <p align="center" width="100%">
-    <img width="93%" src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Readme.md/GIF%20Parte%203.gif">
+    <img width="93%" src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Readme.md/GIF%20Parte%203_1.gif">
 </p>
 <br>
 <br>
