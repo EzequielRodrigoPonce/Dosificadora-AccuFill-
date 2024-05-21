@@ -47,6 +47,9 @@ El cierre total de la manguera al ser comprimida entre el rodillo y la pista (oc
 <br>
 
 ## Materiales Necesarios: 
+<p align="center" width="100%">
+    <img width="65%" src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Readme.md/Captura%20de%20pantalla%202024-05-21%20185250.png">
+</p>
 
 
 <br>
