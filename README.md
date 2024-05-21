@@ -48,21 +48,21 @@ El cierre total de la manguera al ser comprimida entre el rodillo y la pista (oc
 <br>
 <br>
 <p align="center" width="100%">
-    <img width="93%" src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Readme.md/GIF%20Parte%201.gif">
+    <img width="73%" src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Readme.md/GIF%20Parte%201.gif">
 </p>
 <br>
 <br>
 <br>
 
 <p align="center" width="100%">
-    <img width="93%" src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Readme.md/GIF%20Parte%202.gif">
+    <img width="73%" src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Readme.md/GIF%20Parte%202.gif">
 </p>
 
 <br>
 <br>
 <br>
 <p align="center" width="100%">
-    <img width="93%" src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Readme.md/GIF%20Parte%203_1.gif">
+    <img width="73%" src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Readme.md/GIF%20Parte%203_1.gif">
 </p>
 <br>
 <br>
@@ -98,9 +98,6 @@ Una etapa posible sería encontrar una forma de poder comparar los datos recibid
 Para poder obtener valores confiables que relacionen la cantidad de pasos del nema 17 con la cantidad de líquido dosificado es necesario modificar el diseño de la bomba peristáltica, porque la manguera tiene demasiado juego entre la carcasa impresa y el rodamiento que la aprieta, debido a esto no se logra formar un vacío que impida que cuando se detengan los motores los líquidos retrocedan de vuelta al recipiente expendedor.
 Otra etapa sería aumentar la velocidad de dosificación de la bomba manteniendo la estabilidad del dispositivo o agregar más bombas a la dosificadora para permitir múltiples dosificaciones independientes entre sí, esto hará que el proyecto sea más rentable y útil en aplicaciones de la industria.
 En el siguiente video se muestra una dosificadora multi-canal:
-
-[![Dosificadora Multi Canal](http://i3.ytimg.com/vi/ZArngSEx4A0/hqdefault.jpg)](https://www.youtube.com/watch?v=ZArngSEx4A0 "Dosificadora Multi Canal")
-
 
 
 <p align="center">
