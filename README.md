@@ -41,7 +41,7 @@ El cierre total de la manguera al ser comprimida entre el rodillo y la pista (oc
 
 
 <p align="center" width="100%">
-    <img width="33%" src="https://i.makeagif.com/media/1-27-2016/YvQtiC.gif">
+    <img width="45%" src="https://i.makeagif.com/media/1-27-2016/YvQtiC.gif">
 </p>
 
 <br>
@@ -100,9 +100,10 @@ Otra etapa sería aumentar la velocidad de dosificación de la bomba manteniendo
 En el siguiente video se muestra una dosificadora multi-canal:
 
 
-<p align="center">
+<p align="center" width="100%">
   <a href="https://www.youtube.com/watch?v=ZArngSEx4A0" title="Dosificadora Multi Canal">
     <img src="http://i3.ytimg.com/vi/ZArngSEx4A0/hqdefault.jpg" alt="Dosificadora Multi Canal" class="center">
   </a>
+    <img width="49%" src="https://m-tech.com.au/wp-content/uploads/ezgif.com-optimize.gif" align="right">
 </p>
 
