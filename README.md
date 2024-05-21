@@ -45,6 +45,10 @@ El cierre total de la manguera al ser comprimida entre el rodillo y la pista (oc
 </p>
 
 <br>
+
+## Materiales Necesarios: 
+
+
 <br>
 <br>
 <p align="center" width="100%">
