@@ -47,12 +47,31 @@ El cierre total de la manguera al ser comprimida entre el rodillo y la pista (oc
 <br>
 
 ## Materiales Necesarios: 
-<p align="center" width="100%">
-    <img width="65%" src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Readme.md/Captura%20de%20pantalla%202024-05-21%20185250.png">
-</p>
 
+| Componente | Cantidad | Precio [US$] |
+|---|:---:|:---:|
+| ESP32 | x2 | 22
+| MOTOR NEMA 17 |        x2| 60.5
+| DRIVER DRV8825 |        x2| 6.6
+| CELDA DE CARGA HX711 |            x2| 14
+| PLACA EXPERIMENTAL      |             x1| 3.15 
+| PACK DE CABLES |              x1| 3.83
+| RODAMIENTOS 684Zz |              x12| 8.5
+| TUBO GRADO ALIMENTICIO |              x2| 6.8
+| SENSOR ULTRASONICO |      x1| 1.64
+| SENSOR INFRARROJO|           x2| 6.58
+| FILAMENTO PLA|           x1| 8.22
+| TORN. + ARANDELAS M4|           x12| 1
+| EXTRAS (CABLES, TRAFOS, ESTAÑO, ETC.)|           x1| 13.7
+| DISPLAY LCD 20X4|           x1| 7.8
+| FUENTE DE ALIMENTACIóN 12V|           x1| 11
+| TOTAL|           | US$ 175.32
 
+ 
 <br>
+
+## Circuito Electronico:  
+
 <br>
 <p align="center" width="100%">
     <img width="73%" src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Readme.md/GIF%20Parte%201.gif">
