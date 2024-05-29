@@ -109,7 +109,7 @@ En el siguiente video se muestra una dosificadora multi-canal:
 
 <p align="center" width="100%">
   <a href="https://www.youtube.com/watch?v=ZArngSEx4A0" title="Dosificadora Multi Canal">
-    <img src="http://i3.ytimg.com/vi/ZArngSEx4A0/hqdefault.jpg" alt="Dosificadora Multi Canal" class="center">
+    <img src="http://i3.ytimg.com/vi/ZArngSEx4A0/hqdefault.jpg" alt="Dosificadora Multi Canal" class="left">
   </a>
     <img width="49%" src="https://m-tech.com.au/wp-content/uploads/ezgif.com-optimize.gif" align="right">
 </p>
