@@ -16,27 +16,25 @@
 
 <br><br><br>
 
-Este proyecto se propone brindar una alternativa más barata, personalizable e intuitiva a la dosificación de líquidos para la industria alimenticia. En el mercado, este tipo de máquinas se pueden obtener una gran variedad de precios, caudales y precisión, pero su valor es muy alto en contraste con los componentes que forman el equipo, que pueden ser adquiridos por un precio relativamente bajo. Este proyecto además tiene como objetivo facilitar el uso mediante una interfaz de usuario amigable que se controle desde un Smartphone o una computadora, generalmente las dosificadoras con este tipo de funciones son de las más costosas de su tipo.
+Este proyecto se propone brindar una alternativa más barata, personalizable e intuitiva a la dosificación de líquidos para la industria alimenticia. En el mercado, este tipo de máquinas se pueden obtener una gran variedad de precios, caudales y precisión, pero su valor es muy alto en contraste con los componentes que forman el equipo, que pueden ser adquiridos por un precio relativamente bajo. Este proyecto además tiene como objetivo facilitar el uso mediante una interfaz de usuario amigable que se controle desde un Smartphone o una computadora.
 
 ## Descripción:
 
-El proyecto consiste en desarrollar una solución económica y funcional para la dosificación de dos fluidos denominados componente “A” y componente “B” para obtener una preparación o distintas formulaciones que la industria alimenticia considere necesarias a partir de dos componentes.
-Se construirá un cubículo donde se concentran todos los componentes electrónicos y el espacio de dosificación que funcionará con un motor eléctrico y diversos sensores que harán al automatismo y control del proceso. Asimismo, se construirán dos bombas peristálticas encargadas de la dosificación.
-Se tendrá un espacio donde colocar un recipiente para ser leído por un sensor que permite que se aplique la cantidad programada de un determinado fluido “A” Y “B”, luego se tendrá la formulación deseada. 
+El proyecto consiste en desarrollar una solución económica y funcional para la dosificación de dos fluidos denominados componente “A” y componente “B” para obtener una preparación o distintas formulaciones que la industria alimenticia considere necesarias a partir de dos componentes.<br>
+Se construirá un cubículo donde se concentran todos los componentes electrónicos y el espacio de dosificación que funcionará con un motor eléctrico y diversos sensores que harán al automatismo y control del proceso. Asimismo, se construirán dos bombas peristálticas encargadas de la dosificación.<br>
+Se tendrá un espacio donde colocar un recipiente para ser leído por un sensor que permite que se aplique la cantidad programada de un determinado fluido “A” Y “B”, luego se tendrá la formulación deseada. <br>
 Este prototipo está destinado a ser construido como modelo de prueba para la industria alimenticia, con un nivel de precisión y tolerancia acorde a dicha industria y etapa del proyecto.
 
 ## Especificación de Requerimientos de la Dosificadora
 
-El usuario podrá especificar la cantidad de líquido y las proporciones del líquido A y B que se dosificarán mediante un servidor web, través de un Smartphone o computadora, siguiendo una dirección de internet ó escaneando un código QR, se podrá controlar con una interfaz intuitiva.
-
-Una vez especificadas las proporciones a dosificador, se deberá transportar un recipiente vacío sobre una plataforma que se encuentra dentro del equipo, en el punto donde se deposita el recipiente está tendrá un sensor óptico capaz de detectar su presencia, esto hará que la plataforma traslade el recipiente y se detenga debajo de la manguera a la salida de la bomba peristáltica.
-Los dos recipientes que contienen los líquidos A y B estarán encima de balanzas de precisión. Estas ayudaran a mejorar la precisión con la que se distribuyen los líquidos.
-Primero se dosifica la cantidad de líquido A según lo especificado por el usuario y luego el sistema, mediante la balanza, calcula la cantidad de líquido A que se distribuyó y con esos valores determina la cantidad de líquido B que se proporcionará a continuación.  
-Las bombas peristálticas serán capaces de distribuir líquido dentro de un rango de caudal de 100 a 1500 mL/min.    
+-    El usuario podrá especificar la cantidad de líquido y las proporciones del líquido A y B que se dosificarán mediante un servidor web, través de un Smartphone o computadora, siguiendo una dirección de internet ó escaneando un código QR, se podrá controlar con una interfaz intuitiva.<br>
+-    Una vez especificadas las proporciones a dosificador, se deberá transportar un recipiente vacío sobre una plataforma que se encuentra dentro del equipo, en el punto donde se deposita el recipiente está tendrá un sensor óptico capaz de detectar su presencia, esto hará que la plataforma traslade el recipiente y se detenga debajo de la manguera a la salida de la bomba peristáltica.<br>
+-    Los dos recipientes que contienen los líquidos A y B estarán encima de balanzas de precisión. Estas ayudaran a mejorar la precisión con la que se distribuyen los líquidos.<br>
+-    Las bombas peristálticas serán capaces de distribuir líquido dentro de un rango de caudal de 100 a 1500 mL/min.    
 
 ## Proceso de Peristálsis:
-Las [bombas peristálticas](https://en.wikipedia.org/wiki/Peristaltic_pump "Wikipedia") funcionan cuando los rodillos comprimen la manguera al girar, creando un vacío que succiona fluido a través de esta. En este tipo de bomba, solo la manguera de elastómero flexible entra en contacto con el fluido, eliminando el riesgo de que la bomba contamine el fluido o a la inversa.
-En la Imagen se puede observar el fluido entrando en la manguera de la bomba, atrapado por el rodillo del cabezal de bombeo, y expulsado cuando el próximo rodillo pasa sobre la manguera. Al girar los rodillos, se forma un vacío en la manguera, succionando más fluido, para el próximo paso del rodillo.
+Las [bombas peristálticas](https://en.wikipedia.org/wiki/Peristaltic_pump "Wikipedia") funcionan cuando los rodillos comprimen la manguera al girar, creando un vacío que succiona fluido a través de esta. En este tipo de bomba, solo la manguera de elastómero flexible entra en contacto con el fluido, eliminando el riesgo de que la bomba contamine el fluido o a la inversa.<br>
+En la Imagen se puede observar el fluido entrando en la manguera de la bomba, atrapado por el rodillo del cabezal de bombeo, y expulsado cuando el próximo rodillo pasa sobre la manguera. Al girar los rodillos, se forma un vacío en la manguera, succionando más fluido, para el próximo paso del rodillo.<br>
 El cierre total de la manguera al ser comprimida entre el rodillo y la pista (oclusión) proporciona a la bomba una acción de desplazamiento positivo, evitando el reflujo y eliminando la necesidad de válvulas reguladoras cuando la bomba no está en funcionamiento.
 
 
@@ -81,23 +79,30 @@ En la electrónica se investigaron y se utilizaron los siguientes componentes:<b
 <br>**DISPLAY LCD**: Utilizado para mostrar la dirección web de la dosificadora y las cantidades a dosificar.
 <br>**ESP32**: Se utilizaron dos, uno que contiene las celdas de carga y el LCD, y otra que contiene todo lo demás, se dividieron en dos ESP32 por las incompatibilidades que existen entre las celdas de carga y los NEMA 17 si se usan al mismo tiempo. Para soluciones estos problemas de compatibilidad se consultó al profesor de Fundamentos de los Computadores Digitales de la UNLZ.
 <br>**FUENTE DE COMPUTADORA**: Se utilizó para alimentar toda la dosificadora. Se consultó al profesor de Electrónica la UNLZ, la forma de calcular el voltaje y amperaje necesario de la fuente a utilizar. 
-
-
+<br>
+<br>
+ ### **ESP32 con Motores** 
 <br>
 <p align="center" width="100%">
     <img width="95%" src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Circuito%20de%20Dosificadora/Circuito%20de%20ESP%20con%20Motores.png">
 </p>
 <br>
 
-
+### **ESP32 con Celdas de Carga**
 <br>
 <p align="center" width="100%">
     <img width="95%" src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Circuito%20de%20Dosificadora/Circuito%20de%20ESP32%20Con%20Pag%20Web.png">
 </p>
 <br>
 
+ ## Programación:
+Programación 
+En la programación de los dos ESP32, se tuvieron que dividir los códigos.<br>
+-    El código de un ESP32 se encargaba de controlar los dos NEMA 17 para la dosificación, los sensores infrarrojos para la detección del recipiente donde se depositará el líquido dosificado, el motor de CC para la plataforma giratoria y un micro switch para la puerta de la dosificadora.<br>
+-    El otro código se encarga de las celdas de cargas que pesan constantemente los recipientes contenedores de líquido para dosificar y un display LCD que muestra un mensaje de bienvenida y los parámetros de dosificación que se ingresaron. <br>
+-    Para lograr la comunicación entre los dos ESP32 se utiliza la comunicación serial con los pines RX y TX. Además solo se envían pocos datos por el serial porque si se envían constantemente se ralentiza el ESP32 con los NEMA 17, por serial solo se envían avisos de que se ingresaron los valores a dosificar por la página web y cuando la celda de carga ya detectó que se dosifico ese valor ingresado.
 
-
+ ## Instrucciones de Uso:
 <br>
 <p align="center" width="100%">
     <img width="73%" src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Readme.md/GIF%20Parte%201.gif">
@@ -120,6 +125,8 @@ En la electrónica se investigaron y se utilizaron los siguientes componentes:<b
 <br>
 <br>
 
+ ## Construcción:
+ Para todos los componentes impresos en 3D, la electrónica y su cableado se hizo una estructura para alojar todo. Esta está hecha de madera, placa de acrílico para las partes visibles y partes impresa en 3D para las bisagras y los soportes de los acrílicos. 
 
 <table align="center" style="margin-left: auto; margin-right: auto;">
 <tr>
@@ -146,9 +153,9 @@ En la electrónica se investigaron y se utilizaron los siguientes componentes:<b
 
 ## Posibles Etapas Futuras a Desarrollar:
 
-Una etapa posible sería encontrar una forma de poder comparar los datos recibidos de la balanza y la cantidad de pasos del nema 17 al dosificar para aumentar la precisión del líquido dispensado. 
-Para poder obtener valores confiables que relacionen la cantidad de pasos del nema 17 con la cantidad de líquido dosificado es necesario modificar el diseño de la bomba peristáltica, porque la manguera tiene demasiado juego entre la carcasa impresa y el rodamiento que la aprieta, debido a esto no se logra formar un vacío que impida que cuando se detengan los motores los líquidos retrocedan de vuelta al recipiente expendedor.
-Otra etapa sería aumentar la velocidad de dosificación de la bomba manteniendo la estabilidad del dispositivo o agregar más bombas a la dosificadora para permitir múltiples dosificaciones independientes entre sí, esto hará que el proyecto sea más rentable y útil en aplicaciones de la industria.
+Una etapa posible sería encontrar una forma de poder comparar los datos recibidos de la balanza y la cantidad de pasos del nema 17 al dosificar para aumentar la precisión del líquido dispensado.
+Para poder obtener valores confiables que relacionen la cantidad de pasos del nema 17 con la cantidad de líquido dosificado es necesario modificar el diseño de la bomba peristáltica, porque la manguera tiene demasiado juego entre la carcasa impresa y el rodamiento que la aprieta, debido a esto no se logra formar un vacío que impida que cuando se detengan los motores los líquidos retrocedan de vuelta al recipiente expendedor.<br>
+Otra etapa sería aumentar la velocidad de dosificación de la bomba manteniendo la estabilidad del dispositivo o agregar más bombas a la dosificadora para permitir múltiples dosificaciones independientes entre sí, esto hará que el proyecto sea más rentable y útil en aplicaciones de la industria.<br>
 En el siguiente video se muestra una dosificadora multi-canal:
 
 
