@@ -17,10 +17,13 @@
  > - [Problema a Resolver](#item-uno)
  > - [Descripción](#item-dos)
  > - [Especificación de Requerimientos de la Dosificadora](#item-tres)
- > - [a](#item-cuatro)
->  - [b](#item-cinco)
->  - [c](#item-seis)
->  - [d](#item-siete)
+ > - [Proceso de Peristálsis](#item-cuatro)
+>  - [Materiales Necesarios](#item-cinco)
+>  - [Circuito Electronico](#item-seis)
+>  - [Programación](#item-siete)
+>  - [Instrucciones de Uso](#item-ocho)
+>  - [Construcción](#item-nueve)
+>  - [Posibles Etapas Futuras a Desarrollar](#item-diez)
 
 <br><br><br>
 <a id="item-uno"></a>
@@ -91,7 +94,7 @@ En la electrónica se investigaron y se utilizaron los siguientes componentes:<b
 <br>**FUENTE DE COMPUTADORA**: Se utilizó para alimentar toda la dosificadora. Se consultó al profesor de Electrónica la UNLZ, la forma de calcular el voltaje y amperaje necesario de la fuente a utilizar. 
 <br>
 <br>
-<a id="item-siete"></a>
+
  ### **ESP32 con Motores** 
 <br>
 <p align="center" width="100%">
@@ -106,13 +109,15 @@ En la electrónica se investigaron y se utilizaron los siguientes componentes:<b
 </p>
 <br>
 
+<a id="item-siete"></a>
+
  ## Programación:
 Programación 
 En la programación de los dos ESP32, se tuvieron que dividir los códigos.<br>
 -    El código de un ESP32 se encargaba de controlar los dos NEMA 17 para la dosificación, los sensores infrarrojos para la detección del recipiente donde se depositará el líquido dosificado, el motor de CC para la plataforma giratoria y un micro switch para la puerta de la dosificadora.<br>
 -    El otro código se encarga de las celdas de cargas que pesan constantemente los recipientes contenedores de líquido para dosificar y un display LCD que muestra un mensaje de bienvenida y los parámetros de dosificación que se ingresaron. <br>
 -    Para lograr la comunicación entre los dos ESP32 se utiliza la comunicación serial con los pines RX y TX. Además solo se envían pocos datos por el serial porque si se envían constantemente se ralentiza el ESP32 con los NEMA 17, por serial solo se envían avisos de que se ingresaron los valores a dosificar por la página web y cuando la celda de carga ya detectó que se dosifico ese valor ingresado.
-
+<a id="item-ocho"></a>
  ## Instrucciones de Uso:
 <br>
 <p align="center" width="100%">
@@ -135,7 +140,7 @@ En la programación de los dos ESP32, se tuvieron que dividir los códigos.<br>
 <br>
 <br>
 <br>
-
+<a id="item-nueve"></a>
  ## Construcción:
  Para todos los componentes impresos en 3D, la electrónica y su cableado se hizo una estructura para alojar todo. Esta está hecha de madera, placa de acrílico para las partes visibles y partes impresa en 3D para las bisagras y los soportes de los acrílicos. 
 
@@ -161,7 +166,7 @@ En la programación de los dos ESP32, se tuvieron que dividir los códigos.<br>
 <br>
 
 
-
+<a id="item-diez"></a>
 ## Posibles Etapas Futuras a Desarrollar:
 
 Una etapa posible sería encontrar una forma de poder comparar los datos recibidos de la balanza y la cantidad de pasos del nema 17 al dosificar para aumentar la precisión del líquido dispensado.
