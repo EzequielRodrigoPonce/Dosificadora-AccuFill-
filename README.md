@@ -13,11 +13,15 @@
 <h3 align="center">Ponce, Rodrigo Ezequiel</h3>
 <h3 align="center">Obermann, Cristian</h3>
 
- **Tabla de Contenidos:**
- - [Problema a Resolver](#item-uno)
- - [Descripción](#item-dos)
- - [Especificación de Requerimientos de la Dosificadora](#item-tres)
-   
+ > **Tabla de Contenidos:**
+ > - [Problema a Resolver](#item-uno)
+ > - [Descripción](#item-dos)
+ > - [Especificación de Requerimientos de la Dosificadora](#item-tres)
+ > - [a](#item-cuatro)
+>  - [b](#item-cinco)
+>  - [c](#item-seis)
+>  - [d](#item-siete)
+
 <br><br><br>
 <a id="item-uno"></a>
 ## Problema a Resolver:
@@ -37,7 +41,7 @@ Este prototipo está destinado a ser construido como modelo de prueba para la in
 -    Una vez especificadas las proporciones a dosificador, se deberá transportar un recipiente vacío sobre una plataforma que se encuentra dentro del equipo, en el punto donde se deposita el recipiente está tendrá un sensor óptico capaz de detectar su presencia, esto hará que la plataforma traslade el recipiente y se detenga debajo de la manguera a la salida de la bomba peristáltica.<br>
 -    Los dos recipientes que contienen los líquidos A y B estarán encima de balanzas de precisión. Estas ayudaran a mejorar la precisión con la que se distribuyen los líquidos.<br>
 -    Las bombas peristálticas serán capaces de distribuir líquido dentro de un rango de caudal de 100 a 1500 mL/min.    
-
+<a id="item-cuatro"></a>
 ## Proceso de Peristálsis:
 Las [bombas peristálticas](https://en.wikipedia.org/wiki/Peristaltic_pump "Wikipedia") funcionan cuando los rodillos comprimen la manguera al girar, creando un vacío que succiona fluido a través de esta. En este tipo de bomba, solo la manguera de elastómero flexible entra en contacto con el fluido, eliminando el riesgo de que la bomba contamine el fluido o a la inversa.<br>
 En la Imagen se puede observar el fluido entrando en la manguera de la bomba, atrapado por el rodillo del cabezal de bombeo, y expulsado cuando el próximo rodillo pasa sobre la manguera. Al girar los rodillos, se forma un vacío en la manguera, succionando más fluido, para el próximo paso del rodillo.<br>
@@ -49,7 +53,7 @@ El cierre total de la manguera al ser comprimida entre el rodillo y la pista (oc
 </p>
 
 <br>
-
+<a id="item-cinco"></a>
 ## Materiales Necesarios: 
 
 | Componente | Cantidad | Precio [US$] |
@@ -73,7 +77,7 @@ El cierre total de la manguera al ser comprimida entre el rodillo y la pista (oc
 
  
 <br>
-
+<a id="item-seis"></a>
 ## Circuito Electronico:  
 
 En la electrónica se investigaron y se utilizaron los siguientes componentes:<br>
@@ -87,6 +91,7 @@ En la electrónica se investigaron y se utilizaron los siguientes componentes:<b
 <br>**FUENTE DE COMPUTADORA**: Se utilizó para alimentar toda la dosificadora. Se consultó al profesor de Electrónica la UNLZ, la forma de calcular el voltaje y amperaje necesario de la fuente a utilizar. 
 <br>
 <br>
+<a id="item-siete"></a>
  ### **ESP32 con Motores** 
 <br>
 <p align="center" width="100%">
