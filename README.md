@@ -13,19 +13,24 @@
 <h3 align="center">Ponce, Rodrigo Ezequiel</h3>
 <h3 align="center">Obermann, Cristian</h3>
 
-
+ **Tabla de Contenidos:**
+ - [Problema a Resolver](#item-uno)
+ - [Descripción](#item-dos)
+ - [Especificación de Requerimientos de la Dosificadora](#item-tres)
+   
 <br><br><br>
-## Problema a resolver:
+<a id="item-uno"></a>
+## Problema a Resolver:
 
 Este proyecto se propone brindar una alternativa más barata, personalizable e intuitiva a la dosificación de líquidos para la industria alimenticia. En el mercado, este tipo de máquinas se pueden obtener una gran variedad de precios, caudales y precisión, pero su valor es muy alto en contraste con los componentes que forman el equipo, que pueden ser adquiridos por un precio relativamente bajo. Este proyecto además tiene como objetivo facilitar el uso mediante una interfaz de usuario amigable que se controle desde un Smartphone o una computadora.
-
+<a id="item-dos"></a>
 ## Descripción:
 
 El proyecto consiste en desarrollar una solución económica y funcional para la dosificación de dos fluidos denominados componente “A” y componente “B” para obtener una preparación o distintas formulaciones que la industria alimenticia considere necesarias a partir de dos componentes.<br>
 Se construirá un cubículo donde se concentran todos los componentes electrónicos y el espacio de dosificación que funcionará con un motor eléctrico y diversos sensores que harán al automatismo y control del proceso. Asimismo, se construirán dos bombas peristálticas encargadas de la dosificación.<br>
 Se tendrá un espacio donde colocar un recipiente para ser leído por un sensor que permite que se aplique la cantidad programada de un determinado fluido “A” Y “B”, luego se tendrá la formulación deseada. <br>
 Este prototipo está destinado a ser construido como modelo de prueba para la industria alimenticia, con un nivel de precisión y tolerancia acorde a dicha industria y etapa del proyecto.
-
+<a id="item-tres"></a>
 ## Especificación de Requerimientos de la Dosificadora
 
 -    El usuario podrá especificar la cantidad de líquido y las proporciones del líquido A y B que se dosificarán mediante un servidor web, través de un Smartphone o computadora, siguiendo una dirección de internet ó escaneando un código QR, se podrá controlar con una interfaz intuitiva.<br>
