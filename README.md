@@ -72,6 +72,32 @@ El cierre total de la manguera al ser comprimida entre el rodillo y la pista (oc
 
 ## Circuito Electronico:  
 
+En la electrónica se investigaron y se utilizaron los siguientes componentes:<br>
+<br>**NEMA 17 y DRV8825**: Motor PaP y su controlador utilizado en la bomba para dosificar líquidos.
+<br>**MOTOR DC**: Utilizado para girar la plataforma que rotará el recipiente debajo del pico dosificador
+<br>**SENSOR IR**: Utilizado para detectar la presencia del recipiente vacío en la plataforma y debajo del pico dosificador.
+<br>**MICRO SWITCH**: Utilizado en la puerta de la dosificadora para interrumpir todos los procesos en caso de que esta se abra.
+<br>**CELDA DE CARGA Y HX711**: Utilizada para pesar constantemente la cantidad de líquido en los tanques contenedores.
+<br>**DISPLAY LCD**: Utilizado para mostrar la dirección web de la dosificadora y las cantidades a dosificar.
+<br>**ESP32**: Se utilizaron dos, uno que contiene las celdas de carga y el LCD, y otra que contiene todo lo demás, se dividieron en dos ESP32 por las incompatibilidades que existen entre las celdas de carga y los NEMA 17 si se usan al mismo tiempo. Para soluciones estos problemas de compatibilidad se consultó al profesor de Fundamentos de los Computadores Digitales de la UNLZ.
+<br>**FUENTE DE COMPUTADORA**: Se utilizó para alimentar toda la dosificadora. Se consultó al profesor de Electrónica la UNLZ, la forma de calcular el voltaje y amperaje necesario de la fuente a utilizar. 
+
+
+<br>
+<p align="center" width="100%">
+    <img width="95%" src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Circuito%20de%20Dosificadora/Circuito%20de%20ESP%20con%20Motores.png">
+</p>
+<br>
+
+
+<br>
+<p align="center" width="100%">
+    <img width="95%" src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Circuito%20de%20Dosificadora/Circuito%20de%20ESP32%20Con%20Pag%20Web.png">
+</p>
+<br>
+
+
+
 <br>
 <p align="center" width="100%">
     <img width="73%" src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Readme.md/GIF%20Parte%201.gif">
