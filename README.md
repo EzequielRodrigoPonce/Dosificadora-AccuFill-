@@ -19,7 +19,7 @@
  > - [Especificación de Requerimientos de la Dosificadora](#item-tres)
  > - [Proceso de Peristálsis](#item-cuatro)
 >  - [Materiales Necesarios](#item-cinco)
->  - [Circuito Electronico](#item-seis)
+>  - [Circuito Electrónico](#item-seis)
 >  - [Programación](#item-siete)
 >  - [Instrucciones de Uso](#item-ocho)
 >  - [Construcción](#item-nueve)
@@ -80,7 +80,7 @@ El cierre total de la manguera al ser comprimida entre el rodillo y la pista (oc
 
  
 <a id="item-seis"></a>
-## Circuito Electronico:  
+## Circuito Electrónico:  
 
 En la electrónica se investigaron y se utilizaron los siguientes componentes:<br>
 <br>**NEMA 17 y DRV8825**: Motor PaP y su controlador utilizado en la bomba para dosificar líquidos.
