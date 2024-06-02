@@ -79,7 +79,6 @@ El cierre total de la manguera al ser comprimida entre el rodillo y la pista (oc
 | TOTAL|           | US$ 175.32
 
  
-<br>
 <a id="item-seis"></a>
 ## Circuito Electronico:  
 
@@ -137,11 +136,9 @@ En la programación de los dos ESP32, se tuvieron que dividir los códigos.<br>
 <p align="center" width="100%">
     <img width="73%" src="https://raw.githubusercontent.com/EzequielRodrigoPonce/Dosificadora-AccuFill-FI-UNLZ/main/Readme.md/GIF%20Parte%203_1.gif">
 </p>
-<br>
-<br>
-<br>
+
 <a id="item-nueve"></a>
- ## Construcción:
+## Construcción:
  Para todos los componentes impresos en 3D, la electrónica y su cableado se hizo una estructura para alojar todo. Esta está hecha de madera, placa de acrílico para las partes visibles y partes impresa en 3D para las bisagras y los soportes de los acrílicos. 
 
 <table align="center" style="margin-left: auto; margin-right: auto;">
